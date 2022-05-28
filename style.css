@@ -1,0 +1,39 @@
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    border: 4px dashed grey;
+}
+.object_name_label{
+    font-size: 15px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+}
+
+body
+{
+    background-size:cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+ 
+
+
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
